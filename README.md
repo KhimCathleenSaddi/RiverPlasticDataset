@@ -1,6 +1,6 @@
 # RIVER PLASTIC DATASET
 
-Preprint: [Khim Cathleen Saddi, Tim van Emmerik, Domenico Miglino, et al. Exploring the Transferability of Image-based algorithms for River Plastic Detection: The Value of Small Mix Datasets. ESS Open Archive. April 21, 2025.DOI: 10.22541/essoar.174526454.42643146/v1](https://essopenarchive.org/users/911946/articles/1285534-exploring-the-transferability-of-image-based-algorithms-for-river-plastic-detection-the-value-of-small-mix-datasets)
+Check our paper! Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P. F., et al. (2026). Exploring the transferability of image-based algorithms for river plastic detection: The value of small mixed data sets. Water Resources Research, 62, e2025WR040605. [https://doi.org/10.1029/2025WR040605](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025WR040605)
 
 ## Mix dataset - version 1
 
