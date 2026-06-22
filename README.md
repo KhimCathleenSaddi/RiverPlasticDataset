@@ -1,6 +1,6 @@
 # RIVER PLASTIC DATASET
 
-# Check our paper!
+### Check our paper!
 Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P. F., et al. (2026). Exploring the transferability of image-based algorithms for river plastic detection: The value of small mixed data sets. Water Resources Research, 62, e2025WR040605. [https://doi.org/10.1029/2025WR040605](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025WR040605)
 
 ## Mix dataset - version 1
