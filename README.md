@@ -23,7 +23,7 @@ Indonesia: Schreyers, L., Bui, K. & van Emmerik, T. (2022). Drone images over th
 
 Vietnam: van Lieshout, C., van Oeveren, K., van Emmerik, T., & Postma, E. (2020). Automated river plastic monitoring using deep learning and cameras. Earth and space science, 7(8), e2019EA000960.
 
-The Netherlands (P. Tasseron)
+The Netherlands: P. Tasseron (2025)
 
 
 *Also available in [Roboflow](https://universe.roboflow.com/khm-cer5v/merge-g7mkp).*
