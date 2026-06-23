@@ -3,6 +3,14 @@
 ### Check our paper!
 Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P. F., et al. (2026). Exploring the transferability of image-based algorithms for river plastic detection: The value of small mixed data sets. Water Resources Research, 62, e2025WR040605. [https://doi.org/10.1029/2025WR040605](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025WR040605)
 
+## Citate us!
+
+Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P., Daniele, L., Manfreda, S., 2025. River Plastic Dataset. https://github.com/khmSDDi/RiverPlasticDataset/
+[![DOI](https://zenodo.org/badge/930986356.svg)](https://doi.org/10.5281/zenodo.20811561)
+
+
+
+
 ## Mix dataset - version 1
 
 Locations: Indonesia, Vietnam, The Netherlands
@@ -11,11 +19,6 @@ Classes: 13
 
 Class names: Unclassified Plastic Object, Plastic bottle, Plastic bag, Food container & cutlery, Plastic straw, Transparent bag, Food wrapper, Bottle cap & container, Polystyrene, Drink carton, Glass bottle, Metallic can, Rubber ball
 
-
-## Citation
-
-Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P., Daniele, L., Manfreda, S., 2025. River Plastic Dataset. https://github.com/khmSDDi/RiverPlasticDataset/
-[![DOI](https://zenodo.org/badge/930986356.svg)](https://doi.org/10.5281/zenodo.20811561)
 
 ## Original dataset source (existing labels were updated in this work)
 
