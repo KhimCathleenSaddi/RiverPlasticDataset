@@ -15,7 +15,7 @@ Class names: Unclassified Plastic Object, Plastic bottle, Plastic bag, Food cont
 ## Citation
 
 Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P., Daniele, L., Manfreda, S., 2025. River Plastic Dataset. https://github.com/khmSDDi/RiverPlasticDataset/
-
+[![DOI](https://zenodo.org/badge/930986356.svg)](https://doi.org/10.5281/zenodo.20811561)
 
 ## Original dataset source (existing labels were updated in this work)
 
