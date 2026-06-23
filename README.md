@@ -5,7 +5,7 @@ Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tassero
 
 ## Citate us!
 
-Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P., Daniele, L., Manfreda, S., 2025. River Plastic Dataset. https://doi.org/10.5281/zenodo.20811561
+Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P., Daniele, L., & Manfreda, S. (2026). KhimCathleenSaddi/RiverPlasticDataset: First Stable Production Release (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20811562.
 [![DOI](https://zenodo.org/badge/930986356.svg)](https://doi.org/10.5281/zenodo.20811561)
 
 
