@@ -11,7 +11,7 @@ Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tassero
 
 
 
-## Mix dataset - version 1
+## Mixed dataset - version 1
 
 Locations: Indonesia, Vietnam, The Netherlands
 
